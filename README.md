@@ -1,0 +1,2 @@
+# obki
+about anki
